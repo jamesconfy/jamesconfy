@@ -5,7 +5,7 @@
 
 - 💞️ I’m looking to collaborate on  ```Freelancing Projects```, ```Remote Jobs```, ```Projects to Increasing my Understanding```
 
-- 📫 You can reach me on [Whatsapp](https://wa.me/+2348149795370), [Twitter](https://twitter.com/jamesconfy), [Instagram](https://intagram.com/jamesconfy), [Email](bobdence@gmail.com)
+- 📫 You can reach me on [Whatsapp](https://wa.me/+2348149795370), [Twitter](https://twitter.com/jamesconfy), [Instagram](https://intagram.com/jamesconfy), [Email](mailto:bobdence@gmail.com)
 
 <!---
 jamesconfy/jamesconfy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
